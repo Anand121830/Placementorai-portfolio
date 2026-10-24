@@ -20,7 +20,7 @@ Live project: https://placementorai.vercel.app/
 
 ### Technologies
 
-Add the verified frontend technologies used in my contribution here.
+
 
 ### Acknowledgements
 
