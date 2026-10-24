@@ -20,7 +20,7 @@ Live project: https://placementorai.vercel.app/
 
 ### Technologies
 
-
+python,node.js,react,css
 
 ### Acknowledgements
 
